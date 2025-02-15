@@ -1,4 +1,4 @@
-## ・pip Install
+## pip Install
 pip install discord.py  
 pip install python-dotenv  
 
